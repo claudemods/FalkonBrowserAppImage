@@ -1,0 +1,2 @@
+# FalkonBrowserAppImage
+FalkonBrowserAppImage
